@@ -5,8 +5,15 @@
 功能测试，接口兼容性测试，性能测试，稳定性测试，安全渗透测试，cgi接口安全扫描，接口时序测试，接口异常参数测试，容灾测试，精准测试，数据驱动测试，单元测试，
 分布式系统测试，Fuzzy测试，探索性测试(exploratory testing)，数据一致性检查，测试建模，STRIDE威胁建模，MBT，混沌工程(chaos engineering)，Restful API规范，Chaos Monkey，BVT，API hook，代码覆盖率，测试环境，测试数据生成及管理，外网引流，自动化测试, AOP, 程序链路分析，mock桩，内存泄漏测试，防重入测试，幂等性测试，
 单机单应用压测，单链路压测，全链路压测
-容量测试(评估服务的最大容量值)，摸高压测（在达到停止条件之后，继续增加压力，检验服务集群在失效状态下的表现），峰值稳定性测试，秒杀场景测试，限流演练，降级演练
+容量测试(评估服务的最大容量值)，
+摸高压测（在达到停止条件之后，继续增加压力，检验服务集群在失效状态下的表现），
+峰值稳定性测试，
+秒杀场景测试，
+限流演练，降级演练
 缓存穿透测试
 
 工具类：
-postman, SoapUI, fiddler, jmeter, loadrunner, apache ab, locust, gatling压测工具, Coverity，cppcheck, gcover, docker, wireshark, tc网络丢包和试验模拟工具, iptables, jvm-sandbox, aspectJ, aspectC, Pumba docker异常测试, Blockade异常测试，Charybdefs文件系统异常测试，Jepsen分布式测试框架，python+requests, eve-ng/gns3网络拓扑模拟.
+postman, SoapUI, fiddler, jmeter, loadrunner, apache ab, locust, gatling压测工具, 
+Coverity，cppcheck, gcover, docker, wireshark, tc网络丢包和试验模拟工具, iptables, 
+jvm-sandbox, aspectJ, aspectC, Pumba docker异常测试, Blockade异常测试，Charybdefs文件系统异常测试，Jepsen分布式测试框架，
+python+requests, eve-ng/gns3网络拓扑模拟.
