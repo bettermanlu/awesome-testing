@@ -16,11 +16,18 @@
 测试策略：数据驱动测试，混沌工程，探索性测试(exploratory testing)，A/B测试，新旧版本的对比测试
 发布测试：灰度方案测试，发布方案测试，配置测试
 网络拓扑测试：路由测试，负载均衡测试
+分布式系统测试：
 其他质量手段：代码静态扫描
 
 
 工具类：
-postman, SoapUI, fiddler, jmeter, loadrunner, apache ab, locust, gatling压测工具, 
-Coverity，cppcheck, gcover, docker, wireshark, tc网络丢包和试验模拟工具, iptables, 
-jvm-sandbox, aspectJ, aspectC, Pumba docker异常测试, Blockade异常测试，Charybdefs文件系统异常测试，Jepsen分布式测试框架，
-python+requests, eve-ng/gns3网络拓扑模拟.
+抓包/发包工具：postman, SoapUI, fiddler,wireshark
+性能测试：jmeter, loadrunner, apache ab, locust, gatling压测工具
+代码静态扫描：Coverity，cppcheck
+代码覆盖率工具：gcover(c++),
+异常模拟工具：tc网络丢包和试验模拟工具, iptables, Pumba docker异常测试, Blockade异常测试，Charybdefs文件系统异常测试，
+异常注入：jvm-sandbox, aspectJ, aspectC, 
+分布式测试：Jepsen分布式异常测试框架
+自动化：python+requests, 
+网络拓扑模拟：eve-ng/gns3网络拓扑模拟.
+安全测试工具：nmap、scapy、sqlmap、peach、burpsuite、metasploit
