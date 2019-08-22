@@ -2,4 +2,4 @@
 
 诚邀大家一起共建互联网时代的测试技能图谱
 
-[后台测试相关](backendtesting)
+[后台测试技能图谱](backendtesting)
