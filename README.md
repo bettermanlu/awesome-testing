@@ -3,4 +3,4 @@
 
 诚邀大家一起共建互联网时代的测试技术图谱
 
-[后台测试技术图谱](backendtesting)
+[后台测试技术图谱](backendtesting.md)
