@@ -3,4 +3,8 @@
 
 诚邀大家一起共建互联网时代的测试技术图谱
 
-[后台测试技术图谱](backendtesting.md)
+- [后台测试技术图谱](backendtesting.md)  
+- Web前端测试技术图谱  
+- Android App测试技术图谱  
+- iOS App 测试技术图谱  
+- AI算法测试技术图谱  
