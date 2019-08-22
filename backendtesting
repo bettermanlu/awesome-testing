@@ -1,5 +1,4 @@
-想脑暴下，看看大家在做后台测试时，有哪些测试手段和测试相关知识。
-先列些我所能想到的关键词，未考虑分类和排序，无对错，完全脑暴。
+大家在做后台测试时，有哪些测试手段和测试相关知识，欢迎共建。
 
 概念类：
 接口功能测试：接口兼容性测试，接口时序测试，防重入测试，幂等性测试，API规范测试（如：Restful API），协议测试
@@ -26,8 +25,9 @@
 代码静态扫描：Coverity，cppcheck
 代码覆盖率工具：gcover(c++),
 异常模拟工具：tc网络丢包和试验模拟工具, iptables, Pumba docker异常测试, Blockade异常测试，Charybdefs文件系统异常测试，
-异常注入：jvm-sandbox, aspectJ, aspectC, 
+异常注入：jvm-sandbox, aspectJ, aspectC
 分布式测试：Jepsen分布式异常测试框架
 自动化：python+requests, 
-网络拓扑模拟：eve-ng/gns3网络拓扑模拟.
+网络拓扑模拟：eve-ng/gns3网络拓扑模拟
 安全测试工具：nmap、scapy、sqlmap、peach、burpsuite、metasploit
+linux性能监控工具：CPU，内存，文件系统和磁盘I/O，网络性能(工具比较多，需要另外列出)
