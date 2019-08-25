@@ -3,7 +3,8 @@
 #### 概念类：  
 - **接口功能测试**：接口兼容性测试，接口时序测试，防重入测试，幂等性测试，API规范测试（如：Restful API），协议测试  
     优秀资料地址列表：
-    - [腾讯 TMQ] 接口测试用例设计 https://testerhome.com/topics/11677
+    - [腾讯 TMQ] 接口测试用例设计   
+      https://testerhome.com/topics/11677
 - **压力测试**：单机单应用压测，单链路压测，全链路压测，容量测试(评估服务的最大容量值)，  
          摸高压测（在达到停止条件之后，继续增加压力，检验服务集群在失效状态下的表现），  
          峰值稳定性测试，秒杀场景测试，流量蓄洪  
@@ -15,15 +16,24 @@
 - **容灾测试**：机房级/单机级/进程级/接口级异常演练  
     优秀资料地址列表：xxx(ToDo)  
 - **测试建模**：MBT，ACC建模，活动图，状态机，组合测试，正交实验法  
-    优秀资料地址列表：xxx(ToDo)  
+    优秀资料地址列表：xxx(ToDo) 
+    - 【腾讯 TMQ】测试建模兵器谱   
+       https://juejin.im/entry/58c21631128fe1006b2727ed
 - **数据库/缓存测试**：缓存穿透测试，事务一致性测试  
     优秀资料地址列表：xxx(ToDo)  
 - **精准测试**：代码覆盖率分析，链路分析，   
     优秀资料地址列表：xxx(ToDo)   
 - **测试数据**：外网引流  
     优秀资料地址列表：xxx(ToDo)  
-- **测试策略**：数据驱动测试，混沌工程，探索性测试(exploratory testing)，A/B测试，新旧版本的对比测试  
-    优秀资料地址列表：xxx(ToDo)  
+- **测试策略**：数据驱动测试，混沌工程(chaos engineering)，探索性测试(exploratory testing)，A/B测试，新旧版本的对比测试  
+    优秀资料地址列表：xxx(ToDo)
+    - 全球架构师峰会2019，如何利用混沌工程打造健壮的分布式系统 PingCAP
+       https://time.geekbang.org/dailylesson/detail/100033209 
+    - QCon全球软件开发大会，云原生架构下的混沌工程实践 阿里巴巴
+      https://time.geekbang.org/dailylesson/detail/100029712
+    - 阿里高级技术专家：鲜为人知的混沌工程崭露头角
+      https://mp.weixin.qq.com/s/UaIBPOumjjpVA8CthnNr8A
+    - https://github.com/dastergon/awesome-chaos-engineering
 - **发布测试**：灰度方案测试，发布方案测试，配置测试  
     优秀资料地址列表：xxx(ToDo)  
 - **网络拓扑测试**：路由测试，负载均衡测试  
