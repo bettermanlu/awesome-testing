@@ -32,7 +32,7 @@
         https://time.geekbang.org/dailylesson/detail/100033209 
       - QCon全球软件开发大会，云原生架构下的混沌工程实践 阿里巴巴
         https://time.geekbang.org/dailylesson/detail/100029712
-      - 阿里高级技术专家：鲜为人知的混沌工程崭露头角
+      - 阿里高级技术专家：鲜为人知的混沌工程崭露头角  
         https://mp.weixin.qq.com/s/UaIBPOumjjpVA8CthnNr8A
       - https://github.com/dastergon/awesome-chaos-engineering
 - **发布测试**：灰度方案测试，发布方案测试，配置测试  
