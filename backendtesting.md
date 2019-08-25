@@ -27,13 +27,14 @@
     优秀资料地址列表：xxx(ToDo)  
 - **测试策略**：数据驱动测试，混沌工程(chaos engineering)，探索性测试(exploratory testing)，A/B测试，新旧版本的对比测试  
     优秀资料地址列表：xxx(ToDo)
-    - 全球架构师峰会2019，如何利用混沌工程打造健壮的分布式系统 PingCAP
-       https://time.geekbang.org/dailylesson/detail/100033209 
-    - QCon全球软件开发大会，云原生架构下的混沌工程实践 阿里巴巴
-      https://time.geekbang.org/dailylesson/detail/100029712
-    - 阿里高级技术专家：鲜为人知的混沌工程崭露头角
-      https://mp.weixin.qq.com/s/UaIBPOumjjpVA8CthnNr8A
-    - https://github.com/dastergon/awesome-chaos-engineering
+    - **混沌工程**
+      - 全球架构师峰会2019，如何利用混沌工程打造健壮的分布式系统 PingCAP
+        https://time.geekbang.org/dailylesson/detail/100033209 
+      - QCon全球软件开发大会，云原生架构下的混沌工程实践 阿里巴巴
+        https://time.geekbang.org/dailylesson/detail/100029712
+      - 阿里高级技术专家：鲜为人知的混沌工程崭露头角
+        https://mp.weixin.qq.com/s/UaIBPOumjjpVA8CthnNr8A
+      - https://github.com/dastergon/awesome-chaos-engineering
 - **发布测试**：灰度方案测试，发布方案测试，配置测试  
     优秀资料地址列表：xxx(ToDo)  
 - **网络拓扑测试**：路由测试，负载均衡测试  
