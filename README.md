@@ -4,7 +4,7 @@
 诚邀大家一起共建测试技术图谱
 
 - [后台测试技术图谱](backendtesting.md)  
-- Web前端测试技术图谱  
-- Android App测试技术图谱  
-- iOS App 测试技术图谱  
-- AI测试技术图谱  
+- [Web前端测试技术图谱](webtesting.md)  
+- [Android App测试技术图谱](androidtesting.md)  
+- [iOS App 测试技术图谱](iostesting.md)  
+- [AI测试技术图谱](aitesting.md)  
