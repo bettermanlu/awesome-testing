@@ -109,10 +109,10 @@
 - ### 工具       
      - | 工具名        | 说明          |   链接      | 相关资料 | 备注       |
        | ------------- |---------------|-------------| ----------|------------|
-       | jmeter| xxx   |xxx   |   xxx | xxx |           
+       | jmeter| Apache JMeter是Apache组织开发的基于Java的压力测试工具   |https://jmeter.apache.org/   |   有教程https://www.hissummer.com/ | java语言 |           
        | loadrunner| xxx   |xxx   |   xxx | xxx |           
-       | apache ab| xxx   |xxx   |   xxx | xxx |           
-       | locust| xxx   |xxx   |   xxx | xxx |           
+       | apache ab| xxx   |官方文档：http://httpd.apache.org/docs/2.0/programs/ab.html   |   xxx | xxx |           
+       | locust| Locust是一款易于使用的分布式负载测试工具，完全基于事件，即一个locust节点也可以在一个进程中支持数千并发用户，不使用回调，通过gevent使用轻量级过程（即在自己的进程内运行） |https://www.locust.io/   |   官方文档https://docs.locust.io/en/stable/index.html | python语言 |           
        | gatling| xxx   |xxx   |   xxx | xxx |           
        | linux性能监控工具| CPU，内存，文件系统和磁盘I/O，网络性能(工具比较多，需要另外列出)   |xxx   |  xxx| xxx |           
    
